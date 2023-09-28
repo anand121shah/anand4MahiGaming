@@ -1,6 +1,6 @@
 Game_Name,Provider,Release_Date,Type,RTP,Variance,Hit_Frequency,Max_Win,Min_Bet,Max_Bet,Layout,Betways,Features,Theme,Objects,Genre,Other_Tags,Technology,Game_Size,Last_Update
-Game King Video Poker,IGT,2019-06-13,Card games,99.16%,Med,N/A,x800.00,0.1,100,N-A,N/A,N/A,Card Game, Card theme, Poker-Game, Video poker,N/A,JS, HTML5,N/A,2022-04-30
-Heads Up Hold' em,Playtech,2019-09-25,Live Casino Games,97.64%,N/A,N/A,0,0,0,N-A,N/A,N/A,Card Game, Poker-Game,Table games,Black, Red, Card, Chip, Live Casino,JS, HTML5,N/A,2019-10-01
-Premium Blackjack Single Hand,Playtech,2017-08-15,Card games,98.58%,N/A,N/A,x100.00,1,1000,N-A,N/A,RTP range,Card Game,N/A,N/A,Blackjack, Card, Chip,FLASH, JS, HTML5,N/A,2023-03-18
-Quantum Roulette,Playtech,2019-08-20,Live Casino Games,97.31%,N/A,N/A,N/A,N/A,N/A,N-A,N/A,N/A,Roulette-Game,N/A,Table games,Live Casino, Roulette,JS, HTML5,N/A,2023-03-07
-101 Roulette,Playtech,2018-12-13,Roulette Games,96.19%,N/A,N/A,0,0,0,N-A,N/A,RTP range,Roulette-Game,N/A,N/A,Green, Red,JS, HTML5,N/A,2019-04-26
+"Game King Video Poker",IGT,2019-06-13,"Card games",99.16%,Med,N/A,x800.00,0.1,100,N-A,N/A,N/A,"Card Game, Card theme, Poker-Game, Video poker",N/A,JS,HTML5,N/A,2022-04-30
+"Heads Up Hold' em",Playtech,2019-09-25,"Live Casino Games",97.64%,N/A,N/A,0,0,0,N-A,N/A,N/A,"Card Game, Poker-Game","Table games","Black, Red, Card, Chip, Live Casino",JS,HTML5,N/A,2019-10-01
+"Premium Blackjack Single Hand",Playtech,2017-08-15,"Card games",98.58%,N/A,N/A,x100.00,1,1000,N-A,N/A,"RTP range","Card Game",N/A,N/A,"Blackjack, Card, Chip","FLASH, JS, HTML5",N/A,2023-03-18
+"Quantum Roulette",Playtech,2019-08-20,"Live Casino Games",97.31%,N/A,N/A,N/A,N/A,N/A,N-A,N/A,N/A,"Roulette-Game",N/A,"Table games","Live Casino, Roulette",JS,HTML5,N/A,2023-03-07
+"101 Roulette",Playtech,2018-12-13,"Roulette Games",96.19%,N/A,N/A,0,0,0,N-A,N/A,"RTP range","Roulette-Game",N/A,N/A,"Green, Red",JS,HTML5,N/A,2019-04-26
